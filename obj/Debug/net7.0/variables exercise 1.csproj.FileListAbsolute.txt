@@ -1,0 +1,15 @@
+/Users/alenvaldez/repos/variables exercise 1/variables exercise 1/bin/Debug/net7.0/variables exercise 1
+/Users/alenvaldez/repos/variables exercise 1/variables exercise 1/bin/Debug/net7.0/variables exercise 1.deps.json
+/Users/alenvaldez/repos/variables exercise 1/variables exercise 1/bin/Debug/net7.0/variables exercise 1.runtimeconfig.json
+/Users/alenvaldez/repos/variables exercise 1/variables exercise 1/bin/Debug/net7.0/variables exercise 1.dll
+/Users/alenvaldez/repos/variables exercise 1/variables exercise 1/bin/Debug/net7.0/variables exercise 1.pdb
+/Users/alenvaldez/repos/variables exercise 1/variables exercise 1/obj/Debug/net7.0/variables exercise 1.csproj.AssemblyReference.cache
+/Users/alenvaldez/repos/variables exercise 1/variables exercise 1/obj/Debug/net7.0/variables exercise 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alenvaldez/repos/variables exercise 1/variables exercise 1/obj/Debug/net7.0/variables exercise 1.AssemblyInfoInputs.cache
+/Users/alenvaldez/repos/variables exercise 1/variables exercise 1/obj/Debug/net7.0/variables exercise 1.AssemblyInfo.cs
+/Users/alenvaldez/repos/variables exercise 1/variables exercise 1/obj/Debug/net7.0/variables exercise 1.csproj.CoreCompileInputs.cache
+/Users/alenvaldez/repos/variables exercise 1/variables exercise 1/obj/Debug/net7.0/variables exercise 1.dll
+/Users/alenvaldez/repos/variables exercise 1/variables exercise 1/obj/Debug/net7.0/refint/variables exercise 1.dll
+/Users/alenvaldez/repos/variables exercise 1/variables exercise 1/obj/Debug/net7.0/variables exercise 1.pdb
+/Users/alenvaldez/repos/variables exercise 1/variables exercise 1/obj/Debug/net7.0/variables exercise 1.genruntimeconfig.cache
+/Users/alenvaldez/repos/variables exercise 1/variables exercise 1/obj/Debug/net7.0/ref/variables exercise 1.dll
